@@ -1,0 +1,122 @@
+div #header{
+    height:50px;
+    margin-bottom: 0px;
+}
+a{
+    color:black;
+}
+label{
+    font-weight: 400;
+    color:#45609C;
+    padding-top:5px;
+}
+
+input{
+    height: 35px;
+}
+
+#search{
+    color:white;
+}
+
+#submit{
+    width:10%;
+    height:35px;
+    border:1px groove #45609C;
+    background-color: #45609C;
+}
+#clear{
+    width:8%;
+    height:35px;
+    color:#45609C;
+    border:1px solid #45609C;
+    margin-left:15px;
+    background-color: white;
+}
+
+
+.nav-pills{
+    border-bottom: 2px solid #45609C;
+    transition:linear 2s;
+}
+
+.nav-pills > li > a{
+    border-radius: 0;
+    color:black;
+}
+
+.glyphicon-star{
+    color:#FFD700;
+}
+
+.progress{
+    width:70%;
+    margin:15% auto;
+}
+
+.pager > li > a{
+    color:black;
+    border-radius: 5px;
+    border:1px solid black;
+    padding:5px 35px;
+    margin:auto 15px;
+}
+#topButton{
+    height:50px;
+    margin:0px 0px 15px 0px;
+    
+}
+#back{
+    margin:15px auto 15px 5px;
+    padding:5px 15px;
+    float: left;
+    border:1px solid #DDDDDD;
+    background-color: white;
+    border-radius: 5px;
+    
+}
+#rightButton{
+    float:right;
+    margin:15px 5px 15px auto;
+}
+#star{
+    padding:5px 13px;
+    margin:auto 25px auto auto;
+    border-radius: 5px;
+    border:1px solid #DDDDDD;
+    background-color:white;
+    
+}
+#fbButton{
+    padding:5px 15px;
+    margin:auto auto auto auto;
+    border-radius: 5px;
+    border:1px solid #DDDDDD;
+    background-color:white;
+}
+#album > .panel-warning{
+    color:#7E7778;
+    background-color:#FCF8E5;
+}
+#post > .panel-warning{
+    color:#7E7778;
+    background-color:#FCF8E5;
+}
+
+#post > .panel-default{
+    margin-bottom: 20px;
+}
+.panel-default > .panel-heading + .panel-collapse > .panel-body > img{
+    margin:auto auto 20px auto;
+    border-radius: 5px;
+}
+#post > .panel-default > .panel-body >table{
+    width:100%;
+    margin-bottom: 20px;
+}
+.postname{
+    font-weight: 800;
+}
+.posttime{
+    color:#808080;
+}
